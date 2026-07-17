@@ -34,12 +34,6 @@ I help teams build reliable infrastructure, reduce operational friction, and use
 - Led SRE, Application Support, and Shared Services teams
 - Certified Kubernetes Administrator and AWS Solutions Architect Associate
 
-## How I Think About AI
-
-AI is most valuable when it becomes a shared engineering capability, not just individual prompt usage.
-
-I am interested in reusable agents, retrieval systems, approval gates, evals, and workflows that help engineers move faster while preserving judgment, reliability, and accountability.
-
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/josh-shavers-b91a9315/)

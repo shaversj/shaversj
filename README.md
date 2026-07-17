@@ -2,15 +2,15 @@
 
 Engineering leader focused on platform engineering, SRE, AI-native workflows, and reliable systems.
 
-I help teams build reliable infrastructure, reduce operational friction, and use AI responsibly to improve engineering leverage.
+I build platforms, developer tools, and AI systems that help engineering teams ship software faster without sacrificing reliability.
 
 ## Focus Areas
 
-- Platform engineering and developer experience
-- Site reliability engineering and incident response
 - AI-native engineering workflows
-- Agentic systems with evaluation, safety gates, and observability
-- Technical leadership for teams building reliable, scalable systems
+- Platform engineering & developer experience
+- Site Reliability Engineering
+- Developer productivity
+- Technical leadership
 
 ## Featured Work
 
@@ -28,11 +28,11 @@ I help teams build reliable infrastructure, reduce operational friction, and use
 
 ## Background
 
-- 18+ years in software engineering
+- 18+ years in building software
 - 10+ years in engineering leadership
 - Former Head of Infrastructure & Shared Services at Luma Financial
-- Led SRE, Application Support, and Shared Services teams
-- Certified Kubernetes Administrator and AWS Solutions Architect Associate
+- Platform Engineering, SRE, and Developer Experience
+- CKA • CKAD • AWS Solutions Architect
 
 ## Connect
 

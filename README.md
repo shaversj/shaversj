@@ -1,13 +1,11 @@
 # Josh Shavers
 
-Engineering leader building AI-native platforms, reliable infrastructure, and developer productivity systems.
-
 ## What I Work On
 
-- AI-native platforms and internal developer tools
-- SRE, incident response, and reliability practices
-- Agentic workflows with evals, safety gates, and observability
+- AI-native engineering workflows
 - Platform engineering and developer experience
+- SRE, incident response, and reliability
+- Internal developer tools and productivity systems
 - Technical leadership for teams building reliable, scalable systems
 
 ## Background
